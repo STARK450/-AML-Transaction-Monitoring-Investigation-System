@@ -1,0 +1,5 @@
+{
+  "name": "RiskLens AML Platform",
+  "description": "A professional Anti-Money Laundering (AML) transaction monitoring and investigation dashboard. Features automated rule detection, KYC/EDD profiles, sanctions screening, and AI-assisted investigation reporting.",
+  "requestFramePermissions": []
+}
